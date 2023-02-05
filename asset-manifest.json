@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//rathod401.github.io/Handicraft-Ecommerce/static/css/main.c464eeaa.css",
+    "main.js": "/https//rathod401.github.io/Handicraft-Ecommerce/static/js/main.eda42881.js",
+    "index.html": "/https//rathod401.github.io/Handicraft-Ecommerce/index.html",
+    "main.c464eeaa.css.map": "/https//rathod401.github.io/Handicraft-Ecommerce/static/css/main.c464eeaa.css.map",
+    "main.eda42881.js.map": "/https//rathod401.github.io/Handicraft-Ecommerce/static/js/main.eda42881.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c464eeaa.css",
+    "static/js/main.eda42881.js"
+  ]
+}

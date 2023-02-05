@@ -1,0 +1,13 @@
+ #products{
+    background-color:rgb(210 172 228)!important;
+}
+#caty{
+    text-transform: capitalize;
+}
+body{
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #58b470 0%, #953de7 100%);
+}
+img{
+    height: fit-content;
+}

@@ -1,0 +1,23 @@
+#footer_section{
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+}
+.footer_section{
+    border-top: 3px solid #007BFF;
+    border-radius: 10px;
+}
+
+/* for footer links  */
+.footer_links ul li{
+    list-style: none;
+    margin-bottom: 1rem;
+}
+.footer_links ul li a{
+    color: #000;
+    text-decoration: none;
+    transition: all 0.2s linear;
+}
+.footer_links ul li a:hover{
+    text-decoration: none;
+    margin-left: 5px;
+}
